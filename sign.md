@@ -12,6 +12,7 @@
 
 - 点击**Sign As Corporation**进入公司签署页面，下拉至底部填写签署表单。
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/4.png' width=600 height=300 alt='CLA签署页面' align='center'/>
+
   |   |    |
   |  :---:  |  :---: |
   | Authorized Representavite | 代表人 |
