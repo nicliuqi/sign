@@ -13,12 +13,12 @@
 - 点击**Sign As Corporation**进入公司签署页面，下拉至底部填写签署表单。
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/4.png' width=600 height=300 alt='CLA签署页面' align='center'/>
   |   |    |
-    :---:  |  :---: 
-  Authorized Representavite | 代表人
-  Title | 职位
-  Corporation Name | 公司名称
-  E-Mail | 邮箱，不限于Gmail
-  Verify Code | 点击**send code**系统会向E-Mail所填邮箱发送验证码
+  |  :---:  |  :---: |
+  | Authorized Representavite | 代表人 |
+  | Title | 职位 |
+  | Corporation Name | 公司名称 |
+  | E-Mail | 邮箱，不限于Gmail |
+  | Verify Code | 点击**send code**系统会向E-Mail所填邮箱发送验证码 |
  
 - 表单填完之后勾选已读点击**SIGN**提交，会弹出如下对话框，并会收到一封签署CLA的确认邮件
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/5.png' alt='CLA签署页面'/>
