@@ -1,6 +1,7 @@
 # CLA签署流程
 
 ## 如果您是企业签署责任人
+### 如何完成企业CLA签署
 - 从[openEuler官方网站](https://openeuler.org)首页社区版块进入[贡献攻略](https://openeuler.org/zh/community/contribution/)
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/1.png' width=600 height=350 alt='openEuler官方网站'/>
 
@@ -35,6 +36,8 @@
 - 社区管理员收到您的回复邮件，会审查附件中的pdf文件。审查通过后，社区管理者将上传该附件到CLA签署平台，同时为您的企业开通Administrator账号，该账号可用于登录管理平台，相关的账号和密码将以邮件形式发送给您。
 
 - 如果您收到一封主题为“XX企业在XX社区的CLA Administrator 账号”的邮件，这代表社区接收了您对相应社区的企业CLA签署，至此签署完成。
+
+### 如何管理企业成员签署
 
 - 签署页面的**Signing CLA Guide for Corporation/CLA签署指南-公司**下拉至底部点击**Administrator platform/管理平台**即可跳转到CLA管理系统登录页面。
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/6.png' width=600 height=785 alt='CLA签署页面' align='center'/>
