@@ -4,7 +4,7 @@
 - 从[openEuler官方网站](https://openeuler.org)首页社区版块进入[贡献攻略](https://openeuler.org/zh/community/contribution/)
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/1.png' width=600 height=350 alt='openEuler官方网站'/>
 
-- 通过[贡献攻略](https://openeuler.org/zh/community/contribution/)点击**签署CLA**进入CLA签署页面
+- 通过[贡献攻略](https://openeuler.org/zh/community/contribution/)点击**签署CLA**[进入CLA签署页面](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZvcGVuZXVsZXI=)
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/2.png' width=600 height=350 alt='openEuler贡献攻略'/>
 
 - CLA签署页面
