@@ -5,7 +5,7 @@
 - 从[openEuler官方网站](https://openeuler.org)首页社区版块进入[贡献攻略](https://openeuler.org/zh/community/contribution/)
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/1.png' width=600 height=350 alt='openEuler官方网站'/>
 
-- 通过[贡献攻略](https://openeuler.org/zh/community/contribution/)点击**签署CLA**[进入CLA签署页面](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZvcGVuZXVsZXI=)
+- 通过[贡献攻略](https://openeuler.org/zh/community/contribution/)点击**签署CLA**进入[CLA签署](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZvcGVuZXVsZXI=)页面
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/2.png' width=600 height=350 alt='openEuler贡献攻略'/>
 
 - CLA签署页面
@@ -33,7 +33,7 @@
 
 - 您需要下载打印该pdf文件，在最后一页完成签字。扫描签字后的文件保存为pdf文件，将该文件作为附件回复“企业CLA签署”邮件。
 
-- 社区管理员收到您的回复邮件，会审查附件中的pdf文件。审查通过后，社区管理者将上传该附件到CLA签署平台，同时为您的企业开通Administrator账号，该账号可用于登录管理平台，相关的账号和密码将以邮件形式发送给您。
+- *该步骤由社区管理员操作：社区管理员收到您的回复邮件，会审查附件中的pdf文件。审查通过后，社区管理者将上传该附件到CLA签署平台，同时为您的企业开通Administrator账号，该账号可用于登录管理平台，相关的账号和密码将以邮件形式发送给您。*
 
 - 如果您收到一封主题为“XX企业在XX社区的CLA Administrator 账号”的邮件，这代表社区接收了您对相应社区的企业CLA签署，至此签署完成。
 
