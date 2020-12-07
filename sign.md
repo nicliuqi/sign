@@ -26,7 +26,7 @@
   | Verify Code | 验证码 |
  
 - 点击复选框中的**Privacy Policy/隐私政策**查看隐私政策，确认无误之后开始填写信息。
-<img src='./img/12.png'>
+<img src='./img/12.png' width=600 height=321 alt='隐私政策'>
 
 - 信息完善之后，点击**Send Code/发送验证码**，系统会发送一封主题为“企业CLA签署验证码”的邮件到您的邮箱，请登录邮箱，将邮件中的验证码填入签署页面的**Verify code/验证码**中。
 
