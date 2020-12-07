@@ -45,10 +45,10 @@
 - 首次进入CLA管理系统之后需要修改密码
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/8.png' width=600 height=350 alt='修改密码' align='center'/>
 
-- 作为超级管理员，你有权对管理员进行增删操作。系统会随机生成密码并通过邮件发送给新增的管理员。至少配置一位管理员以确保员工在签署页面进入**Sign As Emplyee/员工签署**后可以成功签署CLA。最多可以配置5位管理员。
+- 作为超级管理员，您有权对管理员进行增删操作。系统会随机生成密码并通过邮件发送给新增的管理员。至少配置一位管理员以确保员工在签署页面进入**Sign As Emplyee/员工签署**后可以成功签署CLA。最多可以配置5位管理员。
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/9.png' width=600 height=350 alt='CLA管理系统' align='center'/>
 
-- 管理员的入口同超级管理员。管理员首次进入系统也会被要求修改密码。管理员能看到未激活与已激活的员工，并能切换员工的激活状态。
+- 管理员首次进入管理平台也会被要求修改密码。管理员能看到未激活与已激活的员工，并能切换员工的激活状态。
 
 - 员工签署CLA后会出现在未激活列表里等待管理员处理
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/10.png' width=600 height=350 alt='CLA管理系统' align='center'/>
