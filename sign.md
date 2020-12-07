@@ -1,8 +1,8 @@
 # CLA签署流程
 
-## 如果您是企业签署责任人
-  **1. 您需要代表企业完成企业CLA文件签署**
-  **2. 您需要为企业指定授权管理员**
+## 如果您是企业签署责任人=
+ 1. 您需要代表企业完成企业CLA文件签署
+ 2. 您需要为企业指定授权管理员
 
 ### 如何完成企业CLA文件签署
 - 从[openEuler官方网站](https://openeuler.org)首页社区版块进入[贡献攻略](https://openeuler.org/zh/community/contribution/)
