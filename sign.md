@@ -1,7 +1,10 @@
 # CLA签署流程
 
 ## 如果您是企业签署责任人
-### 如何完成企业CLA签署
+**1.您需要代表企业完成企业CLA文件签署
+2.您需要为企业指定授权管理员**
+
+### 如何完成企业CLA文件签署
 - 从[openEuler官方网站](https://openeuler.org)首页社区版块进入[贡献攻略](https://openeuler.org/zh/community/contribution/)
 <img src='./img/1.png' width=600 height=350 alt='openEuler官方网站'/>
 
@@ -37,25 +40,20 @@
 
 - 如果您收到一封主题为“XX企业在XX社区的CLA Administrator 账号”的邮件，这代表社区接收了您对相应社区的企业CLA签署，至此签署完成。
 
-### 如何管理企业成员签署
+### 如何为企业指定授权管理员
 
-- 签署页面的**Signing CLA Guide for Corporation/CLA签署指南-公司**下拉至底部点击**Administrator platform/管理平台**即可跳转到CLA管理系统登录页面。
+- [签署页面](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZvcGVuZXVsZXI=)的**Signing CLA Guide for Corporation/CLA签署指南-公司**下拉至底部点击**Administrator platform/管理平台**即可跳转到CLA管理系统登录页面。
 <img src='./img/6.png' width=600 height=785 alt='CLA签署页面' align='center'/>
 
-- CLA管理系统登录页面
+- 使用社区给你发送的账号信息，登录CLA管理系统页面
 <img src='./img/7.png' width=600 height=288 alt='登录CLA管理系统' align='center'/>
 
 - 首次进入CLA管理系统之后需要修改密码
 <img src='./img/8.png' width=600 height=350 alt='修改密码' align='center'/>
 
-- 作为超级管理员，您有权对管理员进行增删操作。系统会随机生成密码并通过邮件发送给新增的管理员。至少配置一位管理员以确保员工在签署页面进入**Sign As Emplyee/员工签署**后可以成功签署CLA。最多可以配置5位管理员。
+- 作为超级管理员，您有权对管理员进行增删操作。至少需要配置一位管理员以确保员工正常签署，最多可以配置5位管理员。当您新增管理员时系统会生成随机密码并邮件通知到该管理员。
 <img src='./img/9.png' width=600 height=350 alt='CLA管理系统' align='center'/>
 
-- 管理员首次进入管理平台也会被要求修改密码。管理员能看到未激活与已激活的员工，并能切换员工的激活状态。
+- 至此，授权管理员操作完成，您后续可根据企业需求动态调整管理员名单。
 
-- 员工签署CLA后会出现在未激活列表里等待管理员处理
-<img src='./img/10.png' width=600 height=350 alt='CLA管理系统' align='center'/>
-
-- 管理员将员工的状态设置为已激活，该员工就可以开始贡献了
-<img src='./img/11.png' width=600 height=350 alt='CLA管理系统' align='center'/>
 
