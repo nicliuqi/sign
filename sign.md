@@ -10,14 +10,14 @@
 - CLA签署页面
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/3.png' width=600 height=350 alt='CLA签署页面' align='center'/>
 
-- 点击**Sign As Corporation/公司签署**进入公司签署页面，下拉至底部填写签署表单
+- 点击**Sign As Corporation/公司签署**进入公司签署页面，请仔细阅读CLA签署内容，然后下拉至底部填写签署表单
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/4.png' width=600 height=300 alt='CLA签署页面' align='center'/>
 
-  |   |    |
+  | 字段 | 含义 |
   |  :---:  |  :---: |
-  | Authorized Representavite | 代表人 |
+  | Authorized Representavite | 公司法定代表 |
   | Title | 职位 |
-  | Corporation Name | 公司名称 |
+  | Corporation Name | 公司完整名称 |
   | E-Mail | 公司邮箱 |
   | Verify Code | 验证码 |
  
