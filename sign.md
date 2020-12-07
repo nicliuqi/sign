@@ -3,7 +3,7 @@
 ## 如果您是企业签署责任人
 ### 如何完成企业CLA签署
 - 从[openEuler官方网站](https://openeuler.org)首页社区版块进入[贡献攻略](https://openeuler.org/zh/community/contribution/)
-<img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/1.png' width=600 height=350 alt='openEuler官方网站'/>
+<img src='./img/1.png' width=600 height=350 alt='openEuler官方网站'/>
 
 - 通过[贡献攻略](https://openeuler.org/zh/community/contribution/)点击**签署CLA**进入[CLA签署](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZvcGVuZXVsZXI=)页面
 <img src='https://raw.githubusercontent.com/nicliuqi/sign/main/img/2.png' width=600 height=350 alt='openEuler贡献攻略'/>
