@@ -46,7 +46,7 @@
 - [签署页面](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZvcGVuZXVsZXI=)的**Signing CLA Guide for Corporation/CLA签署指南-公司**下拉至底部点击**Administrator platform/管理平台**即可跳转到CLA管理系统登录页面。
 <img src='./img/6.png' width=600 height=785 alt='CLA签署页面' align='center'/>
 
-- 使用社区给你发送的账号信息，登录CLA管理系统页面
+- 使用社区给您发送的账号信息，登录CLA管理系统页面
 <img src='./img/7.png' width=600 height=288 alt='登录CLA管理系统' align='center'/>
 
 - 首次进入CLA管理系统之后需要修改密码
