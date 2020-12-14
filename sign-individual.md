@@ -18,7 +18,7 @@
 <img src='./img/20.png' alt='CLA个人签署页面'>
 
 - 确认隐私政策： 勾选**我已阅读隐私政策**复选框。
-<img src='./img/17.png' alt='CLA隐私政策'>
+<img src='./img/21.png' alt='CLA隐私政策'>
 
 - 完成签署： 点击**SIGN**按钮提交签署。随后，您的邮箱会收到一封主题为“个人CLA签署”的邮件，包含您刚才签署的相关信息。至此，CLA个人签署完成。
-<img src='./img/18.png' alt='CLA个人签署提交'>
+<img src='./img/22.png' alt='CLA个人签署提交'>
