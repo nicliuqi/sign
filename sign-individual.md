@@ -1,9 +1,9 @@
 ## 如果您要进行CLA个人签署
 - 从[openEuler官方网站](https://openeuler.org)首页社区版块进入[贡献攻略](https://openeuler.org/zh/community/contribution/)
-<img src='https://github.com/nicliuqi/sign/blob/main/img/1.png' width=600 height=350 alt='openEuler官方网站'/>
+<img src='./img/1.png' width=600 height=350 alt='openEuler官方网站'/>
 
 - 通过[贡献攻略](https://openeuler.org/zh/community/contribution/)点击**签署CLA**进入[CLA签署](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZvcGVuZXVsZXI=)页面
-<img src='https://github.com/nicliuqi/sign/blob/main/img/2.png' width=600 height=350 alt='openEuler贡献攻略'/>
+<img src='./img/2.png' width=600 height=350 alt='openEuler贡献攻略'/>
 
 - 开始签署： 点击**Sign as Individual**按钮，进入[CLA个人签署](https://clasign.osinfra.cn/sign-cla)页面。
 <img src='./img/13.png' alt='CLA签署页面'>
