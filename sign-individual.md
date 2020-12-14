@@ -11,7 +11,7 @@
 - 确认授权： 系统会跳转到gitee的授权页面，请您授权CLA签署平台访问您gitee账号的邮箱和名字信息。授权之后进入[签署](https://clasign.osinfra.cn/sign-cla)页面。
 <img src='./img/15.png' alt='gitee授权页面'>
 
-签署页面
+- 签署页面
 <img src='./img/16.png' alt='CLA个人签署页面'>
 
 - 阅读条款： 请仔细阅读贡献者协议的各项条款。
